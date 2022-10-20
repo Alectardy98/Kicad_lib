@@ -1,2 +1,2 @@
 # Kicad_lib
- Footprints and schamatics for keyboard PCBS in Kicad
+Please Note, I am not the creator for a lot of these resorces, and intead this is a collection of recorces That I have found to be helpful for me while starting out making pcbs.
